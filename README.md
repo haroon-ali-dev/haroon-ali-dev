@@ -31,7 +31,10 @@ I'm a dedicated full-stack JavaScript developer with a strong passion for coding
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-black)
 
 # 💻 Projects
-<img width="45%" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/4f9446d5-a0c0-42bd-8433-18ed21d9b3f5" />
-<img width="45%" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/9bff8790-0270-48e9-8bb0-10fa8af598bd" />
-<img width="50%" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/d5fe05ea-b2ee-4626-9a9a-282a17ae0a91" />
-<img width="50%" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/82eb5f7d-8178-4730-ade8-70a4e49066d5" />
+[![Point of Sale](https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/4f9446d5-a0c0-42bd-8433-18ed21d9b3f5 'Codey the Codecademy mascot')]([https://codecademy.com](https://github.com/haroon-ali-dev/point-of-sale))
+<a href="https://github.com/haroon-ali-dev/point-of-sale">
+  <img width="500px" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/4f9446d5-a0c0-42bd-8433-18ed21d9b3f5" />
+</a>
+<img width="500px" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/9bff8790-0270-48e9-8bb0-10fa8af598bd" />
+<img width="500px" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/d5fe05ea-b2ee-4626-9a9a-282a17ae0a91" />
+<img width="500px" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/82eb5f7d-8178-4730-ade8-70a4e49066d5" />
