@@ -11,6 +11,11 @@ I'm a dedicated full-stack JavaScript developer with a strong passion for coding
 ![React.js](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Node.js](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Node.js](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+# :computer: What I Use To Test
+![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=white)
+![SuperTest](https://img.shields.io/badge/SuperTest-black)
+![Cypress](https://img.shields.io/badge/Cypress-3C873A?style=for-the-badge&labelColor=black&logo=cypress&logoColor=white)
