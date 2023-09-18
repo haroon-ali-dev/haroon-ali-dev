@@ -31,10 +31,18 @@ I'm a dedicated full-stack JavaScript developer with a strong passion for coding
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-black)
 
 # 💻 Projects
-<img width="500px" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/4f9446d5-a0c0-42bd-8433-18ed21d9b3f5" />
-<img width="500px" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/9bff8790-0270-48e9-8bb0-10fa8af598bd" />
-<img width="500px" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/d5fe05ea-b2ee-4626-9a9a-282a17ae0a91" />
-<img width="500px" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/82eb5f7d-8178-4730-ade8-70a4e49066d5" />
+<a href="https://github.com/haroon-ali-dev/point-of-sale">
+  <img width="500px" src="https://res.cloudinary.com/dembzfkgg/image/upload/v1694096843/preview_7b6d4c7838.gif" alt="Point of Sale" />
+</a>
+<a href="https://github.com/haroon-ali-dev/event-manager">
+  <img width="500px" src="https://res.cloudinary.com/dembzfkgg/image/upload/v1694100272/Event_Manager_preview_3fd13a5b24.gif" alt="Event Manager" />
+</a>
+<a href="https://github.com/haroon-ali-dev/google-maps-crm">
+  <img width="500px" src="https://res.cloudinary.com/dembzfkgg/image/upload/v1694096700/preview_7270ea591d.gif" alt="Googlel Maps CRM" />
+</a>
+<a href="https://github.com/haroon-ali-dev/youtube-scraper-video-manager">
+  <img width="500px" src="https://res.cloudinary.com/dembzfkgg/image/upload/v1694100208/YSVM_preview_ecef7efe2a.gif" alt="YouTube Scraper Video Manager" />
+</a>
 
 # 📊 Stats
 <p align="center">
