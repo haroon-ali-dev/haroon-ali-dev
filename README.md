@@ -35,3 +35,8 @@ I'm a dedicated full-stack JavaScript developer with a strong passion for coding
 <img width="500px" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/9bff8790-0270-48e9-8bb0-10fa8af598bd" />
 <img width="500px" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/d5fe05ea-b2ee-4626-9a9a-282a17ae0a91" />
 <img width="500px" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/82eb5f7d-8178-4730-ade8-70a4e49066d5" />
+
+# 📊 Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haroon-ali-dev&theme=radical&border=fff&background=0D1117" alt="Haroon Ali's GitHub Stats"/>
+</p>
