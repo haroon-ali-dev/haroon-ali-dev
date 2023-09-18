@@ -31,5 +31,4 @@ I'm a dedicated full-stack JavaScript developer with a strong passion for coding
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-black)
 
 # 💻 Projects
-![Point of Sale](https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/4f9446d5-a0c0-42bd-8433-18ed21d9b3f5)
-
+<img width="300" src="https://github.com/haroon-ali-dev/haroon-ali-dev/assets/87202358/4f9446d5-a0c0-42bd-8433-18ed21d9b3f5" />
