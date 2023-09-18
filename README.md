@@ -15,7 +15,7 @@ I'm a dedicated full-stack JavaScript developer with a strong passion for coding
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# :computer: What I Use To Test
+# :gear: What I Use To Test
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=white)
 ![SuperTest](https://img.shields.io/badge/SuperTest-black)
 ![Cypress](https://img.shields.io/badge/Cypress-3C873A?style=for-the-badge&labelColor=black&logo=cypress&logoColor=white)
