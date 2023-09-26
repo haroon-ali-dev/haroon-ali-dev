@@ -37,6 +37,9 @@ I'm a dedicated full-stack JavaScript developer with a strong passion for coding
 <a href="https://github.com/haroon-ali-dev/event-manager">
   <img src="https://res.cloudinary.com/dembzfkgg/image/upload/v1694100272/Event_Manager_preview_3fd13a5b24.gif" alt="Event Manager" />
 </a>
+<a href="https://github.com/Miladepour/SyntaxSquad-Project-Kunji">
+  <img src="https://res.cloudinary.com/dembzfkgg/image/upload/v1695754153/Kunji_preview_2857d8333e.gif" alt="Kunji" />
+</a>
 <a href="https://github.com/haroon-ali-dev/google-maps-crm">
   <img src="https://res.cloudinary.com/dembzfkgg/image/upload/v1694096700/preview_7270ea591d.gif" alt="Googlel Maps CRM" />
 </a>
