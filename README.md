@@ -46,6 +46,9 @@ I'm a dedicated full-stack JavaScript developer with a strong passion for coding
 <a href="https://github.com/haroon-ali-dev/youtube-scraper-video-manager">
   <img src="https://res.cloudinary.com/dembzfkgg/image/upload/v1694100208/YSVM_preview_ecef7efe2a.gif" alt="YouTube Scraper Video Manager" />
 </a>
+<a href="https://github.com/haroon-ali-dev/portfolio-website">
+  <img src="https://res.cloudinary.com/dembzfkgg/image/upload/v1695757115/preview_253e81f0cc.gif" alt="YouTube Scraper Video Manager" />
+</a>
 
 # 📊 Stats
 <p align="center">
