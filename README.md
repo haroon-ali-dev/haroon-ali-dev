@@ -17,7 +17,7 @@ I'm a dedicated full-stack JavaScript developer with a strong passion for coding
 
 # :gear: What I Use To Test
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=white)
-![SuperTest](https://img.shields.io/badge/SuperTest-black)
+![SuperTest](https://img.shields.io/badge/SuperTest-black?style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/Cypress-3C873A?style=for-the-badge&labelColor=black&logo=cypress&logoColor=white)
 
 # :earth_americas: What I Use To Deploy
@@ -27,8 +27,8 @@ I'm a dedicated full-stack JavaScript developer with a strong passion for coding
 ![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-black?style=for-the-badge&labelColor=black&logo=expo&logoColor=white)
-![ElephantSQL](https://img.shields.io/badge/ElephantSQL-black)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-black)
+![ElephantSQL](https://img.shields.io/badge/ElephantSQL-black?style=for-the-badge)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-black?style=for-the-badge)
 
 # 💻 Projects
 <a href="https://github.com/haroon-ali-dev/point-of-sale">
