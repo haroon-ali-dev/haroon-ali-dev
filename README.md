@@ -31,26 +31,32 @@ I'm a dedicated full-stack JavaScript developer with a strong passion for coding
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-black?style=for-the-badge)
 
 # 💻 Projects
+## Point of Sale
 <a href="https://github.com/haroon-ali-dev/point-of-sale">
   <img src="https://res.cloudinary.com/dembzfkgg/image/upload/v1694096843/preview_7b6d4c7838.gif" target="_blank" alt="Point of Sale" />
 </a>
+
+## Event Manager
 <a href="https://github.com/haroon-ali-dev/event-manager">
   <img src="https://res.cloudinary.com/dembzfkgg/image/upload/v1694100272/Event_Manager_preview_3fd13a5b24.gif" alt="Event Manager" />
 </a>
+
+## Kunji
 <a href="https://github.com/Miladepour/SyntaxSquad-Project-Kunji">
   <img src="https://res.cloudinary.com/dembzfkgg/image/upload/v1695754153/Kunji_preview_2857d8333e.gif" alt="Kunji" />
 </a>
+
+## Google Maps CRM
 <a href="https://github.com/haroon-ali-dev/google-maps-crm">
   <img src="https://res.cloudinary.com/dembzfkgg/image/upload/v1694096700/preview_7270ea591d.gif" alt="Googlel Maps CRM" />
 </a>
+
+## YouTube Scraper Video Manager
 <a href="https://github.com/haroon-ali-dev/youtube-scraper-video-manager">
   <img src="https://res.cloudinary.com/dembzfkgg/image/upload/v1694100208/YSVM_preview_ecef7efe2a.gif" alt="YouTube Scraper Video Manager" />
 </a>
+
+## Portfolio Website
 <a href="https://github.com/haroon-ali-dev/portfolio-website">
   <img src="https://res.cloudinary.com/dembzfkgg/image/upload/v1695757115/preview_253e81f0cc.gif" alt="YouTube Scraper Video Manager" />
 </a>
-
-# 📊 Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haroon-ali-dev&theme=radical&border=fff&background=0D1117" alt="Haroon Ali's GitHub Stats"/>
-</p>
